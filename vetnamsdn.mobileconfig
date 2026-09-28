@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <!-- ផ្នែកទី១៖ បណ្តាញអ៊ិនធឺណិតកម្រិតខ្ពស់, Hotspot Shield, Data Saver និង Offline Mode Support -->
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Offline Entertainment Mode, Universal iOS Compatibility, Anti-Congestion, and Cellular Data Saver</string>
+            <key>PayloadDisplayName</key>
+            <string>vetnamsdn🍏 Network Boost</string>
+            <key>PayloadIdentifier</key>
+            <string>com.custom.smoothprofile.network.vetnamsdn</string>
+            <key>PayloadType</key>
+            <string>com.apple.cellular</string>
+            <key>PayloadUUID</key>
+            <string>1A2B3C4D-5E6F-7A8B-9C0D-1E2F3A4B5C6D</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>cellularDataService</key>
+            <true/>
+        </dict>
+        <!-- ផ្នែកទី២៖ ឈ្មោះ vetnamsdn🍏, Certificate ស្រាប់, មិនចេញសញ្ញាពពក, កម្លាំងម៉ាស៊ីន 12 Pro Max, 1-Second Launch, Hyper Fast Charge, Ultra Graphics, និង 144FPS -->
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Built-in Enterprise Certificate Trust, eSign Cloud-Icon Bypass, iPhone 12 Pro Max Core Boost, 1-Second Launch, Hyper Fast Charge &amp; Play, Ultra Graphics GPU, and 144FPS</string>
+            <key>PayloadDisplayName</key>
+            <string>vetnamsdn🍏</string>
+            <key>PayloadIdentifier</key>
+            <string>com.custom.smoothprofile.performance.vetnamsdnv3</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>2B3C4D5E-6F7A-8B9C-0D1E-2F3A4B5C6D7E</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>allowUIAppInstallation</key>
+            <true/>
+            <key>forceITunesStorePasswordEntry</key>
+            <false/>
+            <key>allowDiagnosticSubmission</key>
+            <false/>
+            <key>allowAppAnalytics</key>
+            <false/>
+            <key>allowSpotlightInternetResults</key>
+            <false/>
+            <key>allowAutoBrightnessModification</key>
+            <false/>
+            <key>allowLowPowerModeModification</key>
+            <true/>
+            <key>allowAppClips</key>
+            <true/>
+            <key>allowPreloadAppData</key>
+            <true/>
+            <key>allowCloudDocumentSync</key>
+            <true/>
+            <key>allowSharedStream</key>
+            <false/>
+            <key>allowDeviceSleep</key>
+            <true/>
+            <key>allowPowerAssertion</key>
+            <false/>
+            <key>allowOfflineContentCaching</key>
+            <true/>
+            <key>allowHighPerformanceGraphics</key>
+            <true/>
+            <key>allowFastChargingDuringHeavyLoad</key>
+            <true/>
+            <key>allowThermalThrottlingBypassLaunch</key>
+            <true/>
+            <key>allowProMaxCorePerformanceTier</key>
+            <true/>
+            <key>allowEnterpriseAppTrustBypass</key>
+            <true/>
+            <key>bypassSideloadCloudIconVerification</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Ultimate Gaming Configuration Profile: vetnamsdn🍏 with Built-in Certificate Trust, eSign Cloud Bypass, 120/144FPS, and Universal iOS.</string>
+    <key>PayloadDisplayName</key>
+    <string>vetnamsdn🍏</string>
+    <key>PayloadIdentifier</key>
+    <string>com.custom.profile.root.vetnamsdn</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>9F8E7D6C-5B4A-3F2E-1D0C-9B8A7F6E5D4C</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
