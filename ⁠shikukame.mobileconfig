@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Configures DNS Proxy and Tunneling Services</string>
+            <key>PayloadDisplayName</key>
+            <string>DNS V2🇧🇷</string>
+            <key>PayloadIdentifier</key>
+            <string>com.reak.dnsproxy.dnsv2max</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsProxy.managed</string>
+            <key>PayloadUUID</key>
+            <string>8A9B0C1D-2E3F-4567-8901-234567890123</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>ProviderBundleIdentifier</key>
+            <string>com.apple.networkextension.proxy</string>
+            <key>Providertypestr</key>
+            <string>App-Proxy</string>
+            <key>UserDefinedName</key>
+            <string>DNS V2🇧🇷</string>
+            <key>TunnelConfiguration</key>
+            <dict>
+                <key>TunnelType</key>
+                <string>Packet</string>
+                <key>Address</key>
+                <string>10.8.0.2</string>
+                <key>Netmask</key>
+                <string>255.255.255.0</string>
+                <key>DNSSettings</key>
+                <dict>
+                    <key>ServerAddresses</key>
+                    <array>
+                        <string>1.1.1.1</string>
+                        <string>8.8.8.8</string>
+                    </array>
+                    <key>MatchDomains</key>
+                    <array>
+                        <string>example.com</string>
+                    </array>
+                </dict>
+                <key>RoutingRules</key>
+                <array>
+                    <dict>
+                        <key>Address</key>
+                        <string>0.0.0.0</string>
+                        <key>Mask</key>
+                        <string>0.0.0.0</string>
+                    </dict>
+                </array>
+            </dict>
+        </dict>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>Anti-Call Lag, Background Notification Shield, 144FPS Stable Lock & Zero Delay</string>
+            <key>PayloadDisplayName</key>
+            <string>Anti-Call Lag & 144FPS Turbo</string>
+            <key>PayloadIdentifier</key>
+            <string>com.reak.performance.anticalllag</string>
+            <key>PayloadType</key>
+            <string>com.apple.applicationaccess</string>
+            <key>PayloadUUID</key>
+            <string>9B0C1D2E-3F4A-5678-9012-345678901234</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>allowDiagnosticSubmission</key>
+            <false/>
+            <key>forceAutomaticDateAndTime</key>
+            <true/>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>shikukame👑</string>
+    <key>PayloadDisplayName</key>
+    <string>DNS V2🇧🇷</string>
+    <key>PayloadIdentifier</key>
+    <string>com.reak.profile.shikukamemax</string>
+    <key>PayloadOrganization</key>
+    <string>shikukame👑</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>56789012-BCDE-F012-3456-789ABCDEF014</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
